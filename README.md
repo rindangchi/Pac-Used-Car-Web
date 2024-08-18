@@ -10,7 +10,7 @@ Pac Car is a buying and selling used car website that connects buyer and seller 
 - Seller register as a user seller in Pac Car Website
 - Seller create an advertisement in Pac Car website
 - Buyer create an account and register as user buyer in Pac Car website
-- Buyer create a bid in Pac Car Website
+- Buyer create a bid in Pac Car Website to one or more car advertisement posted by seller
 - Seller accept buyer's bid
 - Buyer pay to seller based on their agreement, payment transaction is not in the website scope
 
