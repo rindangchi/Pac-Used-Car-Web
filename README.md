@@ -14,3 +14,7 @@ Pac Car is a buying and selling used car website that connects buyer and seller 
 - Seller accept buyer's bid
 - Buyer pay to seller based on their agreement, payment transaction is not in the website scope
 
+## Objective
+- Design Relational Database for Pac Car Website
+- Create dummy data to validate the database design 
+
